@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "rfirstproject",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Ravina Bhosale",
+  "license": "ISC",
+  "description": ""
+}
